@@ -2,7 +2,7 @@
 There are some games that I made by [Tic80](https://tic80.com). 
 
 Anyone is welcome to play and make suggestions.
----
+
 ---
 
 ## Game List
@@ -24,7 +24,9 @@ Play PocketCube(2x2x2) in Tic80.
 ### [Chameleon Maze](https://tic80.com/play?cart=2027)
 * Introdution
 
-Inspired by https://tic80.com/play?cart=1760 and the mobile game Chameleon.There are 5 levels in the game.
+Inspired by https://tic80.com/play?cart=1760 and the mobile game Chameleon.
+
+There are 5 levels in the game.
 
 * Control
 
