@@ -24,7 +24,7 @@ Anyone is welcome to play and make suggestions.
 ### [Chameleon Maze](https://tic80.com/play?cart=2027)
 * Introdution
 
-  This game is inspired by [3D OBJECTS](https://tic80.com/play?cart=1760) and the mobile game Chameleon.
+  This game is inspired by [3D OBJECTS](https://tic80.com/play?cart=1760) and the mobile game [Chameleon Run](https://en.wikipedia.org/wiki/Chameleon_Run).
 
   There are 5 levels in the game.
 
