@@ -14,7 +14,6 @@ Anyone is welcome to play and make suggestions.
 
 * Control
 
-
   `up` or `down` or `right` or `left`: change respective
 
   `z` or `x` or `s`: rotate faces of the cube
@@ -35,3 +34,20 @@ Anyone is welcome to play and make suggestions.
   `z` or `x`: change perspective
 
   `a`: change color
+
+### [GlassMarble's Battlegrounds](https://tic80.com/play?cart=2150)
+* Introduction
+  
+  Try to survive to the end. Winner Winner Chicken Dinner. 
+
+  When the marble rolls into the hole, it will be eliminated. The game is inspired by [BALLS](https://tic80.com/play?cart=1762).
+  
+* Control
+
+  `z`: shot or choose
+  
+  `x`: cancel
+  
+  `up` or `down`: control the shotting strength
+  
+  `left` or `right`: control the shotting direction or change the number of players
